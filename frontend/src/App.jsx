@@ -12,7 +12,7 @@ import {
   Legend,
 } from "recharts"
 
-const API = "http://127.0.0.1:8000"
+const API = "https://ai-analist.onrender.com" //change add render one 
 
 function App() {
   const [queryLoading, setQueryLoading] = useState(false)
