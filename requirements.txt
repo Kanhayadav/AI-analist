@@ -18,3 +18,4 @@ typing_extensions==4.16.0
 uvicorn==0.52.1
 openai
 python-dotenv
+scikit-learn
